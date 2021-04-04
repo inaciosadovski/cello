@@ -1,6 +1,6 @@
 Django<=2.1.4
 uwsgi<=2.0.17.1
-djangorestframework<=3.9.0
+djangorestframework<=3.11.2
 django-filter<=1.1.0
 drf-yasg<=1.11.1
 flex<=6.13.2
