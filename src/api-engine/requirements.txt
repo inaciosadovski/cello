@@ -1,5 +1,5 @@
 Django<=2.1.4
-uwsgi<=2.0.17.1
+uwsgi<=2.0.22.1
 djangorestframework<=3.9.0
 django-filter<=1.1.0
 drf-yasg<=1.11.1
