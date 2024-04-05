@@ -7,7 +7,7 @@ docker-compose>=1.16.0,<=1.18.0
 Flask>=0.10.0,<=1.12.0
 greenlet>=0.4.5,<=0.4.12
 gunicorn>=19.0.0,<=19.6.0
-pymongo>=3.2.0,<=3.4.0
+pymongo>=4.6.3,<=3.4.0
 requests>=2.0.0,<=2.13.0
 mongoengine>=0.10.0,<=0.13.0
 flask-login>=0.4.0,<=0.4.0
